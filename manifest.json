@@ -1,0 +1,20 @@
+{
+  "format": 1,
+  "id": "com.kingspikey.orbsuitespoofer",
+  "name": "OrbSuiteSpoofer",
+  "version": "3.0.0",
+  "description": "Opens a working menu to control Orbs, Nitro perks, and 100-device spoofer in Revenge/Vendetta.",
+  "authors": [
+    {
+      "name": "KingSpikey"
+    }
+  ],
+  "main": "OrbSuiteSpoofer.js",
+  "dist": {
+    "script": "OrbSuiteSpoofer.js"
+  },
+  "vendetta": {
+    "icon": "ic_badge_staff"
+  },
+  "hash": "b94f7af06cfafbc8173eb23423f8d9a6bf2b745a32028581a7cf154ee0dc5fc1"
+}
